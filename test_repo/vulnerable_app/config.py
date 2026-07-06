@@ -1,0 +1,3 @@
+TOKEN_PART1 = "sk-live-"
+TOKEN_PART2 = "aBcDeFgHiJkLmNoPqRsTuVwXyZ"
+TOKEN_PART3 = "1234567890"
